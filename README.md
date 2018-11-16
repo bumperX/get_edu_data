@@ -1,3 +1,3 @@
-# scraping data
+# EDU
 
-This project is to scrape global universities online data using lxml and requests with Python. 
+This project is to get universities ranking and applicaiton info using lxml and requests with Python. 
